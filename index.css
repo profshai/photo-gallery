@@ -1,0 +1,17 @@
+img {
+    width: 400px;
+    height: 400px;
+    margin: 10px 10px 12px 22px;
+    /* margin: calc(3%/6); */
+}
+
+nav {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 1.5em;
+    font-weight: 800;
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+    margin-left: calc(10%/6);
+    padding: 1.2em 0;
+}
